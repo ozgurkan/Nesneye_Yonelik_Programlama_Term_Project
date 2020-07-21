@@ -4,7 +4,20 @@ Nesne Yönelik Programlama 2018-2019 Bahar Dönemi -Term Project -OTOPARK KAYIT 
 BLM 2012 OBJECT ORIENTED PROGRAMMING, Gr.1&Gr.2, PROJECT WORK V1.1 
 
 Common Rules: 
- Important Note: This document might be updated to answer your FAQ, so please frequently check website for updates and check the version number of document to see if it is updated.  This is a group project for teams of maximum 2 students.  You will write a complete standalone application. A console application is the minimum requirement, such applications will be graded for a maximum of 100 points. If a GUI application is coded, such an application will be graded for a maximum of 120 points, meaning writing GUI code can give up to 20% bonus grade. Term project will have %10 weight in your cumulative grade.   You must use the Eclipse GUI for this project. The source code must be compressed into a zip file that is named as the student numbers of the team numbers separated by a minus sign, such as 1901100719011009.zip  The source code must contain at least two non-trivial jUnit test cases. Creating test cases with jUnit will be the topic of the lecture on May 9th.  The zip file will be sent to the lab coordinator assistant İbrahim Onur Sığırcı until May 17th via uploading to https://forms.gle/E3Y2seWEySJDcAoAA   The lab coordinator will publish a schedule for the teams to demonstrate their projects in a later time. 
+
+ Important Note: This document might be updated to answer your FAQ, so please frequently check website for updates and check the version number of document to see if it is updated. 
+
+ This is a group project for teams of maximum 2 students. 
+
+ You will write a complete standalone application. A console application is the minimum requirement, such applications will be graded for a maximum of 100 points. If a GUI application is coded, such an application will be graded for a maximum of 120 points, meaning writing GUI code can give up to 20% bonus grade. Term project will have %10 weight in your cumulative grade.  
+
+ You must use the Eclipse GUI for this project. The source code must be compressed into a zip file that is named as the student numbers of the team numbers separated by a minus sign, such as 1901100719011009.zip 
+
+ The source code must contain at least two non-trivial jUnit test cases. Creating test cases with jUnit will be the topic of the lecture on May 9th. 
+
+ The zip file will be sent to the lab coordinator assistant İbrahim Onur Sığırcı until May 17th via uploading to https://forms.gle/E3Y2seWEySJDcAoAA  
+
+ The lab coordinator will publish a schedule for the teams to demonstrate their projects in a later time. 
 
 Specific Rules for Group 1 (MSA): 
  All projects must be unique. 
