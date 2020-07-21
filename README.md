@@ -1,4 +1,4 @@
-# OtoparkKayit-TermProject
+# Otopark Kayıt Sistemi (JAVA) - Term Project
 Nesne Yönelik Programlama 2018-2019 Bahar Dönemi -Term Project -OTOPARK KAYIT SİSTEMİ
 
 BLM 2012 OBJECT ORIENTED PROGRAMMING, Gr.1&Gr.2, PROJECT WORK V1.1 
